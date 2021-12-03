@@ -1,0 +1,52 @@
+
+
+
+
+h1{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	color: rgb(110,95,83);
+	font-size: 80px
+    width:600px;
+    margin: 100px
+    margin-bottom: 100px;
+
+}
+.introduction{
+	color: red
+}
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	background: fixed;
+	background: rgb(242,211,188);
+
+}
+p{
+	
+	text-align: center;
+	border: 3px pink outset ;
+	border-radius: 20px / 10px ;
+	box-shadow: 6px 6px 6px pink; 
+	margin: 60px
+		}
+
+h1{
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+ul{
+	text-align: center;
+}
+
+
+.carousel_img{
+	height:800px;
+object-fit: cover;
+}
